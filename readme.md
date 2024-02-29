@@ -7,5 +7,6 @@
 - formats the population (using javascript's built in formatter)
 - puts it in a table
 - displays the table
+
 ![image](./display%20table.png)
 - brings good fortune to you and your family (?)
