@@ -10,3 +10,5 @@
 
 ![image](./display%20table.png)
 - brings good fortune to you and your family (?)
+## table styling
+![INLINE CSS](./styling!.png)
