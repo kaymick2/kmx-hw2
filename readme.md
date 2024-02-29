@@ -6,6 +6,7 @@
 ![image](./sort.png)
 - formats the population (using javascript's built in formatter)
 - puts it in a table
+![format and add to table](./sort%20and%20add%20to%20table.png)
 - displays the table
 
 ![image](./display%20table.png)
